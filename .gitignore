@@ -1,0 +1,29 @@
+# Dependências Node
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de compilação
+build/
+dist/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos zipados para deploy
+*.zip
+
+# Arquivos temporários de editor
+*.swp
+.vscode/
+.idea/
+*.code-workspace
